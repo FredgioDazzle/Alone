@@ -31,7 +31,7 @@ Neto Ilutra (Director)
 
 3. Follow the build instructions in the Ren'Py documentation
 
-4. 4. Compile it for the operating system you want (Android or iOS) and compile it 
+4. Compile it for the operating system you want (Android or iOS) and compile it 
 
 # Support us
 
