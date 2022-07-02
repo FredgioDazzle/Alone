@@ -1,0 +1,1 @@
+{"layout": null, "orientation": "sensorLandscape", "package": "com.dazzleteam.alone", "include_pil": false, "expansion": false, "name": "Lonely Imagination", "update_always": true, "source": false, "icon_name": "Alone", "version": "0.1", "update_icons": true, "permissions": ["VIBRATE"], "numeric_version": "1", "include_sqlite": false, "store": "none"}
