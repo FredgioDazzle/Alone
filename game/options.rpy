@@ -35,13 +35,13 @@ define config.version = "0.1"
 ## Texto situado en la pantalla 'Acerca de' del juego. Sitúa el texto entre
 ## comillas triples y deja una línea en blanco entre párrafos.
 
-define gui.about = _p("""Lonely Imagination es un videojuego libre y de código abierto creado por Fredgio Dazzle, Joack Kenny y Neto Ilutra
+define gui.about = _p("""Lonely Imagination es un videojuego libre y de código abierto creado por Quetzalcoutl, Joack Kenny y Neto Ilutra
 
-    El código fuente del juego, está disponible en {a=https://github.com/FredgioDazzle/Alone/}{color=#7a7b8d}GitHub{/color}{/a}
+    El código fuente del juego, está disponible en {a=https://github.com/QuetzalcoutlDev/Alone/}{color=#7a7b8d}GitHub{/color}{/a}
 
-    Apóyanos en {a=https://fredgiodazzle.itch.io/Alone}{color=#cf2d9f}Itch.io{/color}{/a}
+    Apóyanos en {a=https://quetzalcoult.itch.io/Alone}{color=#cf2d9f}Itch.io{/color}{/a}
 
-        {a=https://twitter.com/FredgioY}{color=#2dbacf}@FredgioY{/color}{/a}
+        {a=https://twitter.com/ElQuetzalcoult}{color=#2dbacf}@ElQuetzalcoult{/color}{/a}
 
         {a=https://youtube.com/channel/UC8XkxdSKbDkxRWPPpImD_Ng}{color=#ff0000}JoackKenny{/color}{/a}
 
@@ -250,4 +250,4 @@ init python:
 ## Los nombres de usuario y de proyecto asociados con un proyecto itch.io,
 ## separados por una barra.
 
-# define build.itch_project = "fredgiodazzle/alone"
+define build.itch_project = "fredgiodazzle/alone"
