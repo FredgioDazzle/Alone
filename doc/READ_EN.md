@@ -1,6 +1,6 @@
 ### Thank you for downloading Lonely Imagination
 
-Always remember to download any content related to this game from (https://fredgiodazzle.itch.io)
+Always remember to download any content related to this game from (https://quetzalcoult.itch.io)
 if you don't run the risk of infecting your PC, you've been warned XD
 
 In itch.io you will find all the official releases of the game (Windows, Linux, MacOS and Android)
@@ -11,27 +11,25 @@ this game is free and you were made to pay for it then you were scammed.
 You have all the permissions to stream, distribute, play, make memes, shits, modify, do whatever you want with the game
 You can use the soundtrack in videos, art, whatever you want, go crazy if you want too.
 
-Support us on Itch.io: (https://fredgiodazzle.itch.io/Alone)
+Support us on Itch.io: (https://quetzalcoult.itch.io/Alone)
 
 ### Other information
 
 This game is free and open source, the source code is available, through the following link:
 
-(https://github.com/FredgioDazzle/Alone)
+(https://github.com/QuetzalcoutlDev/Alone)
 
 ------------------------------------------
-The soundtrack is composed by Joack Kenny, support him on Youtube and SoundCloud
+The soundtrack is composed by Joack Kenny, support him on Youtube :)
 
---YT:
---SoundCloud:
+--YT: https://youtube.com/channel/UC8XkxdSKbDkxRWPPpImD_Ng
 
 ##### Credits #######
 
-Lonely Imagination is created by Fredgio Dazzle (Programmer, Writer, Artist), Joack Kenny (Composer), Neto Ilutra (Advisor)
+Lonely Imagination is created by Quetzalcoutl(Programmer, Writer, Artist), Joack Kenny (Composer), Neto Ilutra (Advisor)
 
-Fredgio Dazzle:
-	https://twitter.com/FredgioY
-	https://youtube.com/c/FredgioDazzleYT01
+Quetzalcoutl:
+	https://twitter.com/ElQuetzalcoutl
 
 Joack Kenny:
 	https://youtube.com/channel/UC8XkxdSKbDkxRWPPpImD_Ng
