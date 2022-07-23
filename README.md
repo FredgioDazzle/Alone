@@ -3,7 +3,7 @@ The new free and open source visual novel inspired by Doki Doki Literature Club!
 
 This game is created by:
 
-Fredgio Dazzle (Artist, programmer, writer)
+Quetzalcoult (Artist, programmer, writer)
 
 Joack Kenny (Composer)
 
@@ -35,9 +35,8 @@ Neto Ilutra (Director)
 
 # Support us
 
-Fredgio Dazzle:
-https://twitter.com/FredgioY
-https://youtube.com/c/FredgioDazzleYT01
+Quetzalcoult:
+https://twitter.com/ElQuetzalcoult
 
 Joack Kenny:
 https://youtube.com/channel/UC8XkxdSKbDkxRWPPpImD_Ng
@@ -54,6 +53,6 @@ https://discord.gg/3cXfUYnR84
 
 Don't forget to share it with your friends :)
 
-https://fredgiodazzle.itch.io/Alone
+https://quetzalcoult.itch.io/alone
 
 Do not forget to notify any error
