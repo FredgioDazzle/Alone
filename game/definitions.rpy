@@ -43,7 +43,6 @@ init python:
                 renpy.image(char_short + "head", sprite + "Head.png") #jnhead
             else:
                 renpy.error(_("El personaje ") + "'" + char + "'" + _(" no contiene la imagen 'head.png' en su directorio, verifica el nombre\n o puede ser que tal imagen no exista."))
-       
         if head_num == None:
             pass
         if head_num > 1:
@@ -65,11 +64,15 @@ init python:
             else:
                 renpy.error(_("El personaje ") + "'" + char + "'" + _(" no contiene la imagen 'eye_") + str(eyes) + _(".png' en su directorio, verifica el nombre\n o puede ser que tal imagen no exista."))
             
-        for eyeexps in range(1, eyeexp_num + 1):
-            if renpy.exists("images" + sprite + "eye_exp" + str(eyeexps) + ".png"):
-                renpy.image(char_short + "eyeexp" + str(eyeexps), sprite + "eye_exp" + str(eyeexps) + ".png") #jneyeexp1
-            else:
-                renpy.error(_("El personaje ") + "'" + char + "'" + _(" no contiene la imagen 'eye_exp") + str(eyeexps) + _(".png' en su directorio, verifica el nombre\n o puede ser que tal imagen no exista."))
+        if eyeexp_num >= 1:
+            for eyeexps in range(1, eyeexp_num + 1):
+                if renpy.exists("images" + sprite + "eye_exp" + str(eyeexps) + ".png"):
+                    renpy.image(char_short + "eyeexp" + str(eyeexps), sprite + "eye_exp" + str(eyeexps) + ".png") #jneyeexp1
+                else:
+                    renpy.error(_("El personaje ") + "'" + char + "'" + _(" no contiene la imagen 'eye_exp") + str(eyeexps) + _(".png' en su directorio, verifica el nombre\n o puede ser que tal imagen no exista."))
+        
+        elif eyeexp_num == None:
+            pass
 
         for mouths in range(1, mouth_num + 1):
             if renpy.exists("images" + sprite + "mouth_" + str(mouths) + ".png"):
@@ -100,11 +103,11 @@ init python:
         if blush_num == None:
             pass
         if blush_num > 1:
-            if renpy.exists("/images" + sprite + "blush.png"):
-                for blushs in range(blush_num + 1):
+            for blushs in range(1, blush_num + 1):
+                if renpy.exists("/images" + sprite + "blush" + str(blushs) + ".png"):
                     renpy.image(char_short + "blush" + str(blushs), sprite + "blush" + str(blushs) + ".png") #jnblush1
-            else:
-                renpy.error(_("El personaje ") + "'" + char + "'" + _(" no contiene la imagen 'blush") + str(blushs) + _("png' en su directorio, verifica el nombre\n o puede ser que tal imagen no exista."))
+                else:
+                    renpy.error(_("El personaje ") + "'" + char + "'" + _(" no contiene la imagen 'blush") + str(blushs) + _("png' en su directorio, verifica el nombre\n o puede ser que tal imagen no exista."))
         if glasses == True:
             if renpy.exists("/images" + sprite + "glasses.png"):
                 renpy.image(char_short + "glasses", sprite + "glasses.png") #koglasses
