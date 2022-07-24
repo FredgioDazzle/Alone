@@ -1,6 +1,6 @@
 ### Gracias por descargar Lonely Imagination					      
 
-Recuerda siempre descargar cualquier contenido relacionado con este juego desde (https://quetzalcoult.itch.io)
+Recuerda siempre descargar cualquier contenido relacionado con este juego desde (https://quetzalcoutl.itch.io/)
 si no corres el riesgo de infectar tu PC, estás advertido XD
 
 En itch.io encontraras todos los lanzamientos oficiales del juego (Windows, Linux, MacOS y Android)
@@ -11,7 +11,7 @@ este juego es gratuito y se te hicieron pagar por él, entonces fuiste estafado.
 Tienes todos los permisos de streamear, distribuir, jugar, hacer memes, shits, modificar, hacer lo que quieras con el juego
 Puedes usar la banda sonora en videos, el arte, lo que quieras, vuélvete loco si quieres también.
 
-Apóyanos en Itch.io: (https://quetzalcoult.itch.io/Alone)
+Apóyanos en Itch.io: (https://quetzalcoutl.itch.io/Alone)
 
 ### Otra información
 
@@ -28,7 +28,7 @@ La banda sonora está compuesta por Joack Kenny, apóyalo en Youtube :)
 
 Lonely Imagination está creado por Quetzalcoutl(programador, escritor, artista), Joack Kenny (Compositor) y Neto Ilutra(Consejero)
 
-Quetzalcoutl:
+Quetzalcoult:
 	https://twitter.com/ElQuetzalcoutl
 	
 Joack Kenny:
