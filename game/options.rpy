@@ -41,7 +41,7 @@ define gui.about = _p("""Lonely Imagination es un videojuego libre y de código 
 
     Apóyanos en {a=https://quetzalcoult.itch.io/Alone}{color=#cf2d9f}Itch.io{/color}{/a}
 
-        {a=https://twitter.com/ElQuetzalcoult}{color=#2dbacf}@ElQuetzalcoult{/color}{/a}
+        {a=https://twitter.com/ElQuetzalcoutl}{color=#2dbacf}@ElQuetzalcoult{/color}{/a}
 
         {a=https://youtube.com/channel/UC8XkxdSKbDkxRWPPpImD_Ng}{color=#ff0000}JoackKenny{/color}{/a}
 
