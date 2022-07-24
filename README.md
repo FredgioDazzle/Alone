@@ -53,6 +53,6 @@ https://discord.gg/3cXfUYnR84
 
 Don't forget to share it with your friends :)
 
-https://quetzalcoult.itch.io/alone
+https://quetzalcoutl.itch.io/alone
 
 Do not forget to notify any error
