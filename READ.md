@@ -29,7 +29,7 @@ La banda sonora está compuesta por Joack Kenny, apóyalo en Youtube :)
 Lonely Imagination está creado por Quetzalcoutl(programador, escritor, artista), Joack Kenny (Compositor) y Neto Ilutra(Consejero)
 
 Quetzalcoutl:
-	https://twitter.com/ElQuetzalcoult
+	https://twitter.com/ElQuetzalcoutl
 	
 Joack Kenny:
 	https://youtube.com/channel/UC8XkxdSKbDkxRWPPpImD_Ng
