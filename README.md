@@ -36,7 +36,7 @@ Neto Ilutra (Director)
 # Support us
 
 Quetzalcoult:
-https://twitter.com/ElQuetzalcoult
+https://twitter.com/ElQuetzalcoutl
 
 Joack Kenny:
 https://youtube.com/channel/UC8XkxdSKbDkxRWPPpImD_Ng
