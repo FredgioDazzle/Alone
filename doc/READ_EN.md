@@ -28,7 +28,7 @@ The soundtrack is composed by Joack Kenny, support him on Youtube :)
 
 Lonely Imagination is created by Quetzalcoult(Programmer, Writer, Artist), Joack Kenny (Composer), Neto Ilutra (Advisor)
 
-Quetzalcoult:
+Quetzalcoutl:
 	https://twitter.com/ElQuetzalcoutl
 
 Joack Kenny:
