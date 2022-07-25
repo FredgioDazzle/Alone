@@ -35,7 +35,7 @@ define config.version = "0.1"
 ## Texto situado en la pantalla 'Acerca de' del juego. Sitúa el texto entre
 ## comillas triples y deja una línea en blanco entre párrafos.
 
-define gui.about = _p("""Lonely Imagination es un videojuego libre y de código abierto creado por Quetzalcoult, Joack Kenny y Neto Ilutra
+define gui.about = _p("""Lonely Imagination es un videojuego libre y de código abierto creado por Quetzalcoutl, Joack Kenny y Neto Ilutra
 
     El código fuente del juego, está disponible en {a=https://github.com/QuetzalcoutlDev/Alone/}{color=#7a7b8d}GitHub{/color}{/a}
 
