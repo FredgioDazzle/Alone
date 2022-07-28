@@ -20,7 +20,7 @@ Neto Ilutra (Director)
 
 3. Run the version of Ren'Py that you have downloaded and after configuring where the projects are placed look for the "Build distributions" button
 
-4. Compile it for the operating system you want (Windows, Linux or Mac) and compile it
+4. Compile it for the operating system you want (Windows, Linux or Mac)
 
 
 # How to compile for Android or iOS?
@@ -31,7 +31,7 @@ Neto Ilutra (Director)
 
 3. Follow the build instructions in the Ren'Py documentation
 
-4. Compile it for the operating system you want (Android or iOS) and compile it 
+4. Compile it for the operating system you want (Android or iOS)
 
 # Support us
 
